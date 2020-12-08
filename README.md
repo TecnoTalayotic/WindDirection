@@ -2,8 +2,6 @@
 Configuración sensor WindDirection en Arduino
 
 En este Git voy a subir el codigo que he creado para hacer funcionar el sensor WindDirection de amazon (https://www.amazon.es/gp/product/B07KYTKLTB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-
- 
   
 Datasheet: 
 
