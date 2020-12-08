@@ -3,7 +3,7 @@ Configuración sensor WindDirection en Arduino
 
 En este Git voy a subir el codigo que he creado para hacer funcionar el sensor WindDirection de amazon (https://www.amazon.es/gp/product/B07KYTKLTB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
-Datasheet:
+Datasheet: 
 Si abrís el Datasheet, veréis que lleva un mecanismo muy básico, se trata de un circuito con 8 interruptores magnéticos que entregan 8 resistencias diferentes, de esta forma al leer una u otra resistencia podemos saber la posición del viento.
 https://www.sparkfun.com/datasheets/Sensors/Weather/Weather%20Sensor%20Assembly..pdf?_ga=2.157979386.1995586139.1543504685-1039030741.1543504685.
 
